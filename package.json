@@ -1,6 +1,6 @@
 {
   "name": "react-scroll-sync",
-  "version": "0.0.0-development",
+  "version": "0.0.1-development",
   "description": "Synchronize scroll positions across multiple scrollable containers",
   "main": "dist/index.js",
   "scripts": {
